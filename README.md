@@ -10,7 +10,7 @@
 
 <h3>🎥 Gameplay Showcase (Click to Watch)</h3> 
 <a href="https://youtu.be/Cln-pehkH1k" target="_blank" title="Click to watch full gameplay video"> 
-<img src="https://github.com/user-attachments/assets/8212fa8b-1802-4f8e-b0bc-d515c7d89f96" alt="Project Echoes Gameplay GIF" width="100%" style="border-radius: 8px; border: 2px solid #00C6FF;"> 
+<img src="https://github.com/user-attachments/assets/8212fa8b-1802-4f8e-b0bc-d515c7d89f96" alt="Project Echoes Gameplay GIF" width="100%" style="max-width: 800px; border-radius: 8px; border: 2px solid #00C6FF;"> 
 </a>
 <br>
 <i>(Click on the image to watch the full gameplay video)</i>
@@ -21,28 +21,24 @@
 | <img src="https://img.shields.io/badge/Unity_6.4_LTS-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Event--Driven_Arch-2B5797?style=flat-square" /> | <img src="https://img.shields.io/badge/New_Input_System-005571?style=flat-square" /> |
 
 <br>
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/ff4c70fa-e880-4df8-82f0-0c5ac9409320" width="100%" style="border-radius: 8px;">
-      <br><b>Tactical Gunplay & Weapons</b>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="100%" style="border-radius: 8px;">
-      <br><b>Enemy Abilities & Pressure</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="100%" style="border-radius: 8px;">
-      <br><b>Various Enemy Archetypes</b>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="100%" style="border-radius: 8px;">
-      <br><b>Collectibles & Object Carry System</b>
-    </td>
-  </tr>
-</table>
+
+<div align="center" style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/ff4c70fa-e880-4df8-82f0-0c5ac9409320" width="85%" style="max-width: 640px; border-radius: 8px;">
+  <br><b>Tactical Gunplay & Weapons</b>
+  <br><br><br>
+  
+  <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="85%" style="max-width: 640px; border-radius: 8px;">
+  <br><b>Enemy Abilities & Pressure</b>
+  <br><br><br>
+
+  <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="85%" style="max-width: 640px; border-radius: 8px;">
+  <br><b>Various Enemy Archetypes</b>
+  <br><br><br>
+
+  <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="85%" style="max-width: 640px; border-radius: 8px;">
+  <br><b>Collectibles & Object Carry System</b>
+  <br><br>
+</div>
 
 </div>
 
