@@ -24,7 +24,7 @@
 
 ## 🛠️ Core Systems & Mechanics Showcase
 
-<table align="center" width="50%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
       <img src="https://github.com/user-attachments/assets/ff4c70fa-e880-4df8-82f0-0c5ac9409320" width="66%" style="max-width: 540px; border-radius: 6px;">
@@ -38,7 +38,7 @@
 
 <br>
 
-<table align="center" width="50%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
       <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="66%" style="max-width: 540px; border-radius: 6px;">
@@ -52,7 +52,7 @@
 
 <br>
 
-<table align="center" width="50%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
       <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="66%" style="max-width: 540px; border-radius: 6px;">
@@ -66,7 +66,7 @@
 
 <br>
 
-<table align="center" width="50%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
       <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="66%" style="max-width: 540px; border-radius: 6px;">
