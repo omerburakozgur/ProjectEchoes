@@ -22,23 +22,61 @@
 
 <br>
 
-<div align="center" style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/ff4c70fa-e880-4df8-82f0-0c5ac9409320" width="85%" style="max-width: 640px; border-radius: 8px;">
-  <br><b>Tactical Gunplay & Weapons</b>
-  <br><br><br>
-  
-  <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="85%" style="max-width: 640px; border-radius: 8px;">
-  <br><b>Enemy Abilities & Pressure</b>
-  <br><br><br>
+## 🛠️ Core Systems & Mechanics Showcase
 
-  <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="85%" style="max-width: 640px; border-radius: 8px;">
-  <br><b>Various Enemy Archetypes</b>
-  <br><br><br>
+<table align="center" width="70%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/ff4c70fa-e880-4df8-82f0-0c5ac9409320" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>🎯 Tactical Gunplay & Weapons</strong>
+      <br>
+      <small>Procedural recoil curves, dynamic spread distribution, and precise regional hitboxes.</small>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="85%" style="max-width: 640px; border-radius: 8px;">
-  <br><b>Collectibles & Object Carry System</b>
-  <br><br>
-</div>
+<br>
+
+<table align="center" width="70%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>🧠 Enemy Abilities & Pressure</strong>
+      <br>
+      <small>Active survival stress loop driven by continuous sanity drain and camera-shake feedback loops.</small>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="70%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>🪖 Various Enemy Archetypes</strong>
+      <br>
+      <small>Modular Finite State Machine (FSM) AI nodes built with optimized early-exit detection loops.</small>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="70%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>🧲 Collectibles & Object Carry System</strong>
+      <br>
+      <small>Pure physics-based movement and rigid joint velocity object carrying with wall-clipping prevention.</small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
