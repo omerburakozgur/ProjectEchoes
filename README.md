@@ -28,17 +28,17 @@
       <br><b>Tactical Gunplay & Weapons</b>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="100%" style="border-radius: 8px;">
       <br><b>Enemy Abilities & Pressure</b>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="100%" style="border-radius: 8px;">
       <br><b>Various Enemy Archetypes</b>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="100%" style="border-radius: 8px;">
       <br><b>Collectibles & Object Carry System</b>
     </td>
   </tr>
