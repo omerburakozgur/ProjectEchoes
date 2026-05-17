@@ -21,21 +21,21 @@
 | <img src="https://img.shields.io/badge/Unity_6.4_LTS-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Event--Driven_Arch-2B5797?style=flat-square" /> | <img src="https://img.shields.io/badge/New_Input_System-005571?style=flat-square" /> |
 
 <br>
-<table width="100%" cellpadding="10">
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/ff4c70fa-e880-4df8-82f0-0c5ac9409320" width="100%" style="border-radius: 8px;">
       <br><b>Tactical Gunplay & Weapons</b>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="100%" style="border-radius: 8px;">
-      <br><b>Various Enemy Archetypes</b>
+      <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="100%" style="border-radius: 8px;">
+      <br><b>Enemy Abilities & Pressure</b>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/74ba1978-63e3-45ab-832b-5220ebd53b03" width="100%" style="border-radius: 8px;">
-      <br><b>Enemy Abilities & Pressure</b>
+      <img src="https://github.com/user-attachments/assets/d1e5be6e-4cfb-468f-bef7-5c1d6e546bcb" width="100%" style="border-radius: 8px;">
+      <br><b>Various Enemy Archetypes</b>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/a9953759-9736-47fd-9c9d-f4fb8b9f9b25" width="100%" style="border-radius: 8px;">
